@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=KimJuHyeon's%20Github%20&fontSize=70)  
+![header](https://capsule-render.vercel.app/api?type=Soft&color=0067A3&height=300&section=header&text=Kim%20Ju%20Hyeon's%20Github%20&fontSize=70)  
 
 
 
